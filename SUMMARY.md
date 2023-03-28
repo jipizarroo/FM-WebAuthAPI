@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Authentication](README.md)
+* [Intro](README.md)
+* [Authentication](<README (1).md>)
