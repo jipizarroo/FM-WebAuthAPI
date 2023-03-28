@@ -74,3 +74,8 @@ Remember that nothing is 100% safe, there is still breaches in security.
 
 <figure><img src=".gitbook/assets/Screen Shot 2023-03-27 at 21.13.40.png" alt=""><figcaption><p>Red = Bad, Green = Good.</p></figcaption></figure>
 
+{% hint style="info" %}
+There is a new type of world that's coming to a bunch of browsers => passkeys
+
+In simple terms, private keys will be saved in your cloud provider, and that will make it so that you can use it across multiple devices and not just one browser.
+{% endhint %}
